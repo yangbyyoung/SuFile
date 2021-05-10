@@ -1,3 +1,2 @@
 rootProject.name = "SuFile"
-include ':app'
 include ':sufilelibrary'
